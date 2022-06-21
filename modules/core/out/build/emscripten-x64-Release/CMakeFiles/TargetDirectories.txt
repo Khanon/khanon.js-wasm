@@ -1,0 +1,3 @@
+C:/Proyectos/khanon.js-wasm/modules/core/out/build/emscripten-x64-Release/CMakeFiles/core.dir
+C:/Proyectos/khanon.js-wasm/modules/core/out/build/emscripten-x64-Release/CMakeFiles/edit_cache.dir
+C:/Proyectos/khanon.js-wasm/modules/core/out/build/emscripten-x64-Release/CMakeFiles/rebuild_cache.dir
